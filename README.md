@@ -1,4 +1,4 @@
 meetingroom
 ===========
 
-book a meeting room
+book a meetingroom, a django example
